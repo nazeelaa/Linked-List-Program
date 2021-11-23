@@ -1,0 +1,14 @@
+F:\vs\Day14PracticeProblems\bin\Debug\netcoreapp3.1\Day14PracticeProblems.exe
+F:\vs\Day14PracticeProblems\bin\Debug\netcoreapp3.1\Day14PracticeProblems.deps.json
+F:\vs\Day14PracticeProblems\bin\Debug\netcoreapp3.1\Day14PracticeProblems.runtimeconfig.json
+F:\vs\Day14PracticeProblems\bin\Debug\netcoreapp3.1\Day14PracticeProblems.runtimeconfig.dev.json
+F:\vs\Day14PracticeProblems\bin\Debug\netcoreapp3.1\Day14PracticeProblems.dll
+F:\vs\Day14PracticeProblems\bin\Debug\netcoreapp3.1\Day14PracticeProblems.pdb
+F:\vs\Day14PracticeProblems\obj\Debug\netcoreapp3.1\Day14PracticeProblems.csproj.AssemblyReference.cache
+F:\vs\Day14PracticeProblems\obj\Debug\netcoreapp3.1\Day14PracticeProblems.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\Day14PracticeProblems\obj\Debug\netcoreapp3.1\Day14PracticeProblems.AssemblyInfoInputs.cache
+F:\vs\Day14PracticeProblems\obj\Debug\netcoreapp3.1\Day14PracticeProblems.AssemblyInfo.cs
+F:\vs\Day14PracticeProblems\obj\Debug\netcoreapp3.1\Day14PracticeProblems.csproj.CoreCompileInputs.cache
+F:\vs\Day14PracticeProblems\obj\Debug\netcoreapp3.1\Day14PracticeProblems.dll
+F:\vs\Day14PracticeProblems\obj\Debug\netcoreapp3.1\Day14PracticeProblems.pdb
+F:\vs\Day14PracticeProblems\obj\Debug\netcoreapp3.1\Day14PracticeProblems.genruntimeconfig.cache
